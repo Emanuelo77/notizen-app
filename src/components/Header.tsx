@@ -1,4 +1,4 @@
-import { Button, Container, Form, Navbar } from 'react-bootstrap';
+import { Button, Container, Form, Navbar } from "react-bootstrap";
 
 
 function Header() {
@@ -9,7 +9,7 @@ function Header() {
         <Form className="d-flex">
                   <Form.Control
                     type="search"
-                    placeholder="Notiz suchen"
+                    placeholder="Notiz Suchen"
                     className="me-2"
                     aria-label="Search"
                   />
